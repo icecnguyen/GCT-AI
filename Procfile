@@ -1,1 +1,1 @@
-web: python gctai.py
+web: gunicorn gctai:app
